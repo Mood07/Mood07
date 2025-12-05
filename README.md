@@ -1,67 +1,188 @@
 # Hi there, I'm Berke Arda Türk! 👋
 
-### 🚀 Data & AI Developer | Computer Science Student
+### 🚀 Full-Stack Developer | Data Science & AI Enthusiast
 
-I'm a Computer Science student with a deep passion for leveraging technology to solve real-world problems. My journey in software development has been driven by curiosity and a desire to create meaningful impact through code.
+I'm a Computer Science student with a passion for building innovative solutions that solve real-world problems. My expertise spans **Data Science, Machine Learning, Backend Development, and Web Technologies**. I love creating scalable applications, intelligent systems, and data-driven insights.
 
-Currently focusing on **Data Science and Machine Learning**, I enjoy building intelligent systems that can learn, adapt, and provide value. I'm proficient in **Python** and its powerful ecosystem of ML libraries, experienced in creating responsive web applications with **React** and modern web technologies, and skilled in developing robust backend solutions using **Java**.
+I specialize in:
 
-I believe in continuous learning and staying updated with the latest technological advancements. When I'm not coding, you'll find me exploring new frameworks, contributing to open-source projects, or diving deep into research papers on the latest AI developments.
-
----
-
-## 🛠️ Skills & Technologies
-
-### Data & AI
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-</p>
-
-### Web Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase Hosting" width="40" height="40"/>
-</p>
-
-### Programming & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+- **Machine Learning & NLP** - Building predictive models and sentiment analysis systems
+- **Backend Development** - Crafting robust REST APIs with Spring Boot and Java
+- **Data Analysis** - Transforming raw data into actionable insights
+- **Web Development** - Creating responsive, user-friendly applications
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mood07&show_icons=true&theme=radical" alt="Mood07's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mood07&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 Data Science & AI
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🌐 Backend & Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-25B7D3?style=for-the-badge&logo=restapi&logoColor=white)
+
+### 🎨 Frontend & Web
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🗄️ Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📫 Connect with Me
+## 📂 Featured Projects
 
-- **Portfolio**: [berke-turk.web.app](https://berke-turk.web.app/)
-- **LinkedIn**: [Berke Arda Türk](https://www.linkedin.com/in/berke-arda-turk/)
+### 🎯 AI & Machine Learning
+
+| Project                                                                                                 | Description                                                                                                                                                        | Tech Stack                                  |
+| :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
+| **[AI-Resume-Matcher](https://github.com/Mood07/AI-Resume-Matcher)**                                    | Advanced resume-to-job matching system using Transformer embeddings and semantic search. Scores job-resume compatibility with NLP models.                          | Python, Transformers, HuggingFace, NLP      |
+| **[Stock-Sentiment-Predictor](https://github.com/Mood07/Stock-Sentiment-Predictor)**                    | Production-ready NLP pipeline analyzing financial news sentiment (positive/neutral/negative). Features TF-IDF vectorization, Linear SVM, and Streamlit deployment. | Python, Scikit-learn, TensorFlow, Streamlit |
+| **[Movie Revenue Predictor](https://github.com/Mood07/movie-revenue-predictor)**                        | Machine Learning regression project predicting movie box-office revenue using TMDB 5000 dataset with ensemble methods.                                             | Python, Pandas, Scikit-learn, ML            |
+| **[Student Exam Performance Predictor](https://github.com/Mood07/student-exam-performance-prediction)** | Predictive model analyzing factors affecting student exam performance with comprehensive data exploration and statistical analysis.                                | Python, Data Analysis, Visualization        |
+
+### 🌐 Web & Full-Stack Development
+
+| Project                                                                                                    | Description                                                                                                                      | Tech Stack                          |
+| :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- |
+| **[Portfolio Website](https://berke-turk.web.app/)**                                                       | Modern personal portfolio featuring project showcase, responsive design, and smooth animations. Live hosted on Firebase.         | React, Vite, Tailwind CSS, Firebase |
+| **[Hotel Booking & Management Platform](https://github.com/Mood07/Hotel-Booking-and-Management-Platform)** | Production-ready hotel management system with room management, reservations, booking history, and comprehensive admin dashboard. | PHP, MySQL, Bootstrap 5, HTML/CSS   |
+| **[Blog Platform](https://github.com/Mood07/BlogProject)**                                                 | Full-featured blogging platform with admin panel, user authentication, email subscriptions, and Stripe payment integration.      | ASP.NET Core MVC, MySQL, Stripe API |
+| **[Movie App](https://github.com/Mood07/movie-app)**                                                       | Interactive movie browsing application with search functionality and detailed movie information.                                 | JavaScript, HTML/CSS, APIs          |
+
+### ☕ Backend & Java Projects
+
+| Project                                                                                        | Description                                                                                                                                           | Tech Stack                           |
+| :--------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------- |
+| **[Java-SpringBoot-Todo-API](https://github.com/Mood07/Java-SpringBoot-Todo-API)**             | RESTful Todo API with complete CRUD operations, DTO mapping, exception handling, and MySQL integration. Production-ready with proper error responses. | Java, Spring Boot, MySQL, REST API   |
+| **[Java-Ticket-Booking-System](https://github.com/Mood07/Java-Ticket-Booking-System)**         | Console-based ticket booking system featuring seat visualization, real-time availability, and booking management. Demonstrates OOP principles.        | Java, OOP, File I/O                  |
+| **[Java-Weather-API-App](https://github.com/Mood07/Java-Weather-API-App)**                     | Real-time weather application fetching live data from OpenWeather API. Features detailed weather forecasts and data parsing.                          | Java, REST API, JSON, External APIs  |
+| **[Java-Library-Management-System](https://github.com/Mood07/Java-Library-Management-System)** | Comprehensive library system with book management, member tracking, and JSON-based persistence. Showcases solid OOP architecture.                     | Java, Gson, OOP, File Storage        |
+| **[Banking Application](https://github.com/Mood07/Banking-App)**                               | Banking system with multiple account types, inheritance-based architecture, interest calculation, and fund transfers.                                 | Java, OOP, Inheritance, Polymorphism |
+| **[Expense Tracker](https://github.com/Mood07/Expense-Tracker)**                               | Personal finance tracking application with expense categorization and statistical summaries. Clean code with proper encapsulation.                    | Java, OOP, Data Structures           |
+
+### 📊 Data Analysis & Visualization
+
+| Project                                                                              | Description                                                                                                                              | Tech Stack                              |
+| :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
+| **[Global CO₂ Emissions Dashboard](https://github.com/Mood07/Global-CO2-Dashboard)** | Time series analysis and interactive visualization of global CO₂ emissions from 1750 to 2020. Comprehensive environmental data insights. | Python, Pandas, Matplotlib, Seaborn     |
+| **[Netflix Data Insights](https://github.com/Mood07/Netflix-Data-Insights)**         | Exploratory Data Analysis on Netflix catalog with content trends, genre distribution, and viewership patterns.                           | Python, Pandas, Data Visualization      |
+| **[Spotify Music Trends](https://github.com/Mood07/Spotify-Music-Trends)**           | Analysis of Spotify music trends spanning 1920-2020 with modular data pipeline and trend discovery.                                      | Python, Data Analysis, Visualization    |
+| **[World Happiness Insights](https://github.com/Mood07/World-Happiness-Insights)**   | Statistical analysis and regression modeling of World Happiness Report data with correlation analysis.                                   | Python, Scipy, Stats, Regression Models |
+
+---
+
+## 🎓 Learning Path & Expertise
+
+- **Data Science & Machine Learning**: NLP, Sentiment Analysis, Regression, Classification, Feature Engineering
+- **Backend Development**: REST APIs, Database Design, Object-Oriented Programming, Design Patterns
+- **Web Development**: Frontend frameworks, UI/UX, Responsive Design, API Integration
+- **Software Engineering**: Clean Code, Version Control, Testing, Documentation
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mood07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mood07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mood07&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
+</div>
+
+---
+
+## 💼 Currently Working On
+
+- Building advanced **NLP models** for real-world applications
+- Expanding my **full-stack development** portfolio with modern frameworks
+- Exploring **cloud deployment** strategies (Firebase, AWS, Docker)
+- Contributing to **open-source** projects
+
+---
+
+## 🎯 My Goals
+
+- Become an expert in **Machine Learning & AI**
+- Master **cloud-native development** and DevOps
+- Build products that create real value for users
+- Share knowledge through blogs and mentorship
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-arda-turk/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mood07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berke-turk.web.app/)
+
+</div>
+
+---
+
+## 📊 Activity & Contributions
+
+```text
+I'm most productive during:
+- Evening hours (8 PM - 2 AM) 🌙
+- On challenging ML/Backend problems 🧠
+- When working with real datasets 📊
+```
+
+---
+
+## 🏆 Highlights
+
+- 📚 **30+ Projects** across multiple domains
+- 🔬 **Advanced ML implementations** with production-ready code
+- 🌐 **Full-stack applications** deployed on the cloud
+- 👥 **Community contributor** with a passion for learning and sharing
+- 💡 **Problem-solver** focused on clean code and best practices
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+Feel free to explore my projects, fork them, and reach out if you'd like to collaborate! 🚀
+
+**Made with ❤️ by Berke Arda Türk**
+
+</div>
 
 <!--
 **Mood07/Mood07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
