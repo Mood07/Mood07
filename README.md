@@ -59,48 +59,6 @@ I specialize in:
 
 ---
 
-## 📂 Featured Projects
-
-### 🎯 AI & Machine Learning
-
-| Project                                                                                                 | Description                                                                                                                                                        | Tech Stack                                  |
-| :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
-| **[AI-Resume-Matcher](https://github.com/Mood07/AI-Resume-Matcher)**                                    | Advanced resume-to-job matching system using Transformer embeddings and semantic search. Scores job-resume compatibility with NLP models.                          | Python, Transformers, HuggingFace, NLP      |
-| **[Stock-Sentiment-Predictor](https://github.com/Mood07/Stock-Sentiment-Predictor)**                    | Production-ready NLP pipeline analyzing financial news sentiment (positive/neutral/negative). Features TF-IDF vectorization, Linear SVM, and Streamlit deployment. | Python, Scikit-learn, TensorFlow, Streamlit |
-| **[Movie Revenue Predictor](https://github.com/Mood07/movie-revenue-predictor)**                        | Machine Learning regression project predicting movie box-office revenue using TMDB 5000 dataset with ensemble methods.                                             | Python, Pandas, Scikit-learn, ML            |
-| **[Student Exam Performance Predictor](https://github.com/Mood07/student-exam-performance-prediction)** | Predictive model analyzing factors affecting student exam performance with comprehensive data exploration and statistical analysis.                                | Python, Data Analysis, Visualization        |
-
-### 🌐 Web & Full-Stack Development
-
-| Project                                                                                                    | Description                                                                                                                      | Tech Stack                          |
-| :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- |
-| **[Portfolio Website](https://berke-turk.web.app/)**                                                       | Modern personal portfolio featuring project showcase, responsive design, and smooth animations. Live hosted on Firebase.         | React, Vite, Tailwind CSS, Firebase |
-| **[Hotel Booking & Management Platform](https://github.com/Mood07/Hotel-Booking-and-Management-Platform)** | Production-ready hotel management system with room management, reservations, booking history, and comprehensive admin dashboard. | PHP, MySQL, Bootstrap 5, HTML/CSS   |
-| **[Blog Platform](https://github.com/Mood07/BlogProject)**                                                 | Full-featured blogging platform with admin panel, user authentication, email subscriptions, and Stripe payment integration.      | ASP.NET Core MVC, MySQL, Stripe API |
-| **[Movie App](https://github.com/Mood07/movie-app)**                                                       | Interactive movie browsing application with search functionality and detailed movie information.                                 | JavaScript, HTML/CSS, APIs          |
-
-### ☕ Backend & Java Projects
-
-| Project                                                                                        | Description                                                                                                                                           | Tech Stack                           |
-| :--------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------- |
-| **[Java-SpringBoot-Todo-API](https://github.com/Mood07/Java-SpringBoot-Todo-API)**             | RESTful Todo API with complete CRUD operations, DTO mapping, exception handling, and MySQL integration. Production-ready with proper error responses. | Java, Spring Boot, MySQL, REST API   |
-| **[Java-Ticket-Booking-System](https://github.com/Mood07/Java-Ticket-Booking-System)**         | Console-based ticket booking system featuring seat visualization, real-time availability, and booking management. Demonstrates OOP principles.        | Java, OOP, File I/O                  |
-| **[Java-Weather-API-App](https://github.com/Mood07/Java-Weather-API-App)**                     | Real-time weather application fetching live data from OpenWeather API. Features detailed weather forecasts and data parsing.                          | Java, REST API, JSON, External APIs  |
-| **[Java-Library-Management-System](https://github.com/Mood07/Java-Library-Management-System)** | Comprehensive library system with book management, member tracking, and JSON-based persistence. Showcases solid OOP architecture.                     | Java, Gson, OOP, File Storage        |
-| **[Banking Application](https://github.com/Mood07/Banking-App)**                               | Banking system with multiple account types, inheritance-based architecture, interest calculation, and fund transfers.                                 | Java, OOP, Inheritance, Polymorphism |
-| **[Expense Tracker](https://github.com/Mood07/Expense-Tracker)**                               | Personal finance tracking application with expense categorization and statistical summaries. Clean code with proper encapsulation.                    | Java, OOP, Data Structures           |
-
-### 📊 Data Analysis & Visualization
-
-| Project                                                                              | Description                                                                                                                              | Tech Stack                              |
-| :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
-| **[Global CO₂ Emissions Dashboard](https://github.com/Mood07/Global-CO2-Dashboard)** | Time series analysis and interactive visualization of global CO₂ emissions from 1750 to 2020. Comprehensive environmental data insights. | Python, Pandas, Matplotlib, Seaborn     |
-| **[Netflix Data Insights](https://github.com/Mood07/Netflix-Data-Insights)**         | Exploratory Data Analysis on Netflix catalog with content trends, genre distribution, and viewership patterns.                           | Python, Pandas, Data Visualization      |
-| **[Spotify Music Trends](https://github.com/Mood07/Spotify-Music-Trends)**           | Analysis of Spotify music trends spanning 1920-2020 with modular data pipeline and trend discovery.                                      | Python, Data Analysis, Visualization    |
-| **[World Happiness Insights](https://github.com/Mood07/World-Happiness-Insights)**   | Statistical analysis and regression modeling of World Happiness Report data with correlation analysis.                                   | Python, Scipy, Stats, Regression Models |
-
----
-
 ## 🎓 Learning Path & Expertise
 
 - **Data Science & Machine Learning**: NLP, Sentiment Analysis, Regression, Classification, Feature Engineering
