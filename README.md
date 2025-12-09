@@ -2,14 +2,15 @@
 
 ### 🚀 Full-Stack Developer | Data Science & AI Enthusiast
 
-I'm a Computer Science student with a passion for building innovative solutions that solve real-world problems. My expertise spans **Data Science, Machine Learning, Backend Development, and Web Technologies**. I love creating scalable applications, intelligent systems, and data-driven insights.
+I'm a Computer Science student passionate about building **AI-driven applications**, **intelligent systems**, and **scalable full-stack solutions**.  
+My work spans **Machine Learning, Backend Development, and Modern Web Technologies** — turning ideas into functional, impactful products.
 
 I specialize in:
 
-- **Machine Learning & NLP** - Building predictive models and sentiment analysis systems
-- **Backend Development** - Crafting robust REST APIs with Spring Boot and Java
-- **Data Analysis** - Transforming raw data into actionable insights
-- **Web Development** - Creating responsive, user-friendly applications
+- **Machine Learning & NLP** – LLM pipelines, embeddings, RAG systems, predictive models  
+- **Backend Development** – REST APIs with Java Spring Boot & FastAPI  
+- **Data Analysis** – Insights, prediction models, cleaning, preprocessing  
+- **Web Development** – Modern, responsive front-end and AI-powered web apps  
 
 ---
 
@@ -20,10 +21,12 @@ I specialize in:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 ### 🤖 Data Science & AI
 
@@ -32,14 +35,19 @@ I specialize in:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
 
 ### 🌐 Backend & Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-25B7D3?style=for-the-badge&logo=restapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-25B7D3?style=for-the-badge&logo=api&logoColor=white)
+
+---
 
 ### 🎨 Frontend & Web
 
@@ -49,6 +57,8 @@ I specialize in:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
 
 ### 🗄️ Databases & Tools
 
@@ -61,10 +71,28 @@ I specialize in:
 
 ## 🎓 Learning Path & Expertise
 
-- **Data Science & Machine Learning**: NLP, Sentiment Analysis, Regression, Classification, Feature Engineering
-- **Backend Development**: REST APIs, Database Design, Object-Oriented Programming, Design Patterns
-- **Web Development**: Frontend frameworks, UI/UX, Responsive Design, API Integration
-- **Software Engineering**: Clean Code, Version Control, Testing, Documentation
+- **Machine Learning & NLP** – Classification, regression, embeddings, RAG, LLM usage  
+- **Backend Engineering** – Secure REST APIs, authentication, Spring Boot architecture  
+- **Web Development** – React apps, responsive UI, API integration  
+- **Software Principles** – Clean code, testing, documentation, Git workflows  
+
+---
+
+## 🌟 Highlighted Projects
+
+### 🔹 AI Resume Matcher  
+_AI-powered résumé ranking & matching system._  
+**Tech:** Python, LangChain, OpenAI, Streamlit  
+🔗 https://github.com/Mood07/AI-Resume-Matcher
+
+### 🔹 Stock Analysis Tool  
+_CLI-based stock analyzer with data fetching & visualization._  
+**Tech:** Python, Pandas, Matplotlib  
+🔗 https://github.com/Mood07/stock-analysis
+
+### 🔹 Full Portfolio Website  
+_Modern portfolio built with React & Tailwind._  
+🔗 https://berke-turk.web.app/
 
 ---
 
@@ -80,19 +108,19 @@ I specialize in:
 
 ## 💼 Currently Working On
 
-- Building advanced **NLP models** for real-world applications
-- Expanding my **full-stack development** portfolio with modern frameworks
-- Exploring **cloud deployment** strategies (Firebase, AWS, Docker)
-- Contributing to **open-source** projects
+- Advanced **NLP & LLM pipelines**  
+- Full-stack applications using **React + FastAPI / Spring Boot**  
+- Cloud deployment strategies with **Firebase, Vercel, AWS**  
+- Open-source AI tools & utilities  
 
 ---
 
 ## 🎯 My Goals
 
-- Become an expert in **Machine Learning & AI**
-- Master **cloud-native development** and DevOps
-- Build products that create real value for users
-- Share knowledge through blogs and mentorship
+- Become highly proficient in **AI engineering**  
+- Build scalable, production-ready **ML systems**  
+- Master cloud architecture & DevOps  
+- Develop impactful, user-focused applications  
 
 ---
 
@@ -108,37 +136,12 @@ I specialize in:
 
 ---
 
-## 📊 Activity & Contributions
-
-```text
-I'm most productive during:
-- Evening hours (8 PM - 2 AM) 🌙
-- On challenging ML/Backend problems 🧠
-- When working with real datasets 📊
-```
-
----
-
-## 🏆 Highlights
-
-- 📚 **30+ Projects** across multiple domains
-- 🔬 **Advanced ML implementations** with production-ready code
-- 🌐 **Full-stack applications** deployed on the cloud
-- 👥 **Community contributor** with a passion for learning and sharing
-- 💡 **Problem-solver** focused on clean code and best practices
-
----
-
 <div align="center">
-
-### Thanks for visiting my profile!
-
-Feel free to explore my projects, fork them, and reach out if you'd like to collaborate! 🚀
+  
+### Thanks for visiting my profile!  
+Feel free to explore my projects or reach out for collaboration. 🚀  
 
 **Made with ❤️ by Berke Arda Türk**
 
 </div>
 
-<!--
-**Mood07/Mood07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
