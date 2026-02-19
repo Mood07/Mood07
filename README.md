@@ -1,15 +1,16 @@
+<div align="center">
+
 # Hi there, I'm Berke Arda Türk! 👋
 
-###  Data Science & AI Enthusiast
+### 🚀 Full-Stack Developer · Data Science & AI Enthusiast
 
-I'm a Computer Science student with a passion for building innovative solutions that solve real-world problems. My expertise spans **Data Science, Machine Learning, Backend Development, and Web Technologies**. I love creating scalable applications, intelligent systems, and data-driven insights.
+_Computer Science student passionate about building real-world systems at the intersection of Data, AI & the Web._
 
-I specialize in:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-arda-turk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berkeardaturk.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mood07)
 
-- **Machine Learning & NLP** - Building predictive models and sentiment analysis systems
-- **Backend Development** - Crafting robust REST APIs with Spring Boot and Java
-- **Data Analysis** - Transforming raw data into actionable insights
-- **Web Development** - Creating responsive, user-friendly applications
+</div>
 
 ---
 
@@ -27,8 +28,6 @@ I specialize in:
 
 ### 🤖 Data Science & AI
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -55,7 +54,6 @@ I specialize in:
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -74,7 +72,7 @@ I specialize in:
 
 | Project                                                                                                    | Description                                                                                                                      | Tech Stack                          |
 | :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- |
-| **[Portfolio Website](https://berke-turk.web.app/)**                                                       | Modern personal portfolio featuring project showcase, responsive design, and smooth animations. Live hosted on Firebase.         | React, Vite, Tailwind CSS, Firebase |
+| **[Portfolio Website](https://berkeardaturk.com/)**                                                        | Modern personal portfolio featuring project showcase, responsive design, and smooth animations. Live hosted on Firebase.         | React, Vite, Tailwind CSS, Firebase |
 | **[Hotel Booking & Management Platform](https://github.com/Mood07/Hotel-Booking-and-Management-Platform)** | Production-ready hotel management system with room management, reservations, booking history, and comprehensive admin dashboard. | PHP, MySQL, Bootstrap 5, HTML/CSS   |
 | **[Blog Platform](https://github.com/Mood07/BlogProject)**                                                 | Full-featured blogging platform with admin panel, user authentication, email subscriptions, and Stripe payment integration.      | ASP.NET Core MVC, MySQL, Stripe API |
 | **[Movie App](https://github.com/Mood07/movie-app)**                                                       | Interactive movie browsing application with search functionality and detailed movie information.                                 | JavaScript, HTML/CSS, APIs          |
@@ -124,15 +122,6 @@ I specialize in:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mood07&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mood07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mood07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mood07&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
-</div>
-
 ---
 
 ## 💼 Currently Working On
@@ -159,29 +148,17 @@ I specialize in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-arda-turk/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mood07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berke-turk.web.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berkeardaturk.com/)
 
 </div>
 
 ---
 
-## 📊 Activity & Contributions
-
-```text
-I'm most productive during:
-- Evening hours (8 PM - 2 AM) 🌙
-- On challenging ML/Backend problems 🧠
-- When working with real datasets 📊
-```
-
----
-
 ## 🏆 Highlights
 
-- 📚 **30+ Projects** across multiple domains
-- 🔬 **Advanced ML implementations** with production-ready code
+- � **Advanced ML implementations** with production-ready pipelines
 - 🌐 **Full-stack applications** deployed on the cloud
-- 👥 **Community contributor** with a passion for learning and sharing
+- 🗄️ **Backend APIs** built with clean architecture and OOP
 - 💡 **Problem-solver** focused on clean code and best practices
 
 ---
