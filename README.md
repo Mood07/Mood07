@@ -2,9 +2,9 @@
 
 # Hi there, I'm Berke Arda Türk! 👋
 
-### 🚀 Full-Stack Developer · Data Science & AI Enthusiast
+### 🎓 CS Student @ Vizja University · Data Science & AI Enthusiast · Python & Machine Learning
 
-_Computer Science student passionate about building real-world systems at the intersection of Data, AI & the Web._
+_Building real-world systems at the intersection of Data, AI & the Web._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-arda-turk/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berkeardaturk.com/)
