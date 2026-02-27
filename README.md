@@ -61,12 +61,12 @@ _Computer Science student passionate about building real-world systems at the in
 
 ### 🎯 AI & Machine Learning
 
-| Project                                                                                                 | Description                                                                                                                                                        | Tech Stack                                  |
-| :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
-| **[AI-Resume-Matcher](https://github.com/Mood07/AI-Resume-Matcher)**                                    | Advanced resume-to-job matching system using Transformer embeddings and semantic search. Scores job-resume compatibility with NLP models.                          | Python, Transformers, HuggingFace, NLP      |
-| **[Stock-Sentiment-Predictor](https://github.com/Mood07/Stock-Sentiment-Predictor)**                    | Production-ready NLP pipeline analyzing financial news sentiment (positive/neutral/negative). Features TF-IDF vectorization, Linear SVM, and Streamlit deployment. | Python, Scikit-learn, NLP, Streamlit |
-| **[Movie Revenue Predictor](https://github.com/Mood07/movie-revenue-predictor)**                        | Machine Learning regression project predicting movie box-office revenue using TMDB 5000 dataset with ensemble methods.                                             | Python, Pandas, Scikit-learn, ML            |
-| **[Student Exam Performance Predictor](https://github.com/Mood07/student-exam-performance-prediction)** | Predictive model analyzing factors affecting student exam performance with comprehensive data exploration and statistical analysis.                                | Python, Data Analysis, Visualization        |
+| Project                                                                                                 | Description                                                                                                                                                        | Tech Stack                             |
+| :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------- |
+| **[AI-Resume-Matcher](https://github.com/Mood07/AI-Resume-Matcher)**                                    | Advanced resume-to-job matching system using Transformer embeddings and semantic search. Scores job-resume compatibility with NLP models.                          | Python, Transformers, HuggingFace, NLP |
+| **[Stock-Sentiment-Predictor](https://github.com/Mood07/Stock-Sentiment-Predictor)**                    | Production-ready NLP pipeline analyzing financial news sentiment (positive/neutral/negative). Features TF-IDF vectorization, Linear SVM, and Streamlit deployment. | Python, Scikit-learn, NLP, Streamlit   |
+| **[Movie Revenue Predictor](https://github.com/Mood07/movie-revenue-predictor)**                        | Machine Learning regression project predicting movie box-office revenue using TMDB 5000 dataset with ensemble methods.                                             | Python, Pandas, Scikit-learn, ML       |
+| **[Student Exam Performance Predictor](https://github.com/Mood07/student-exam-performance-prediction)** | Predictive model analyzing factors affecting student exam performance with comprehensive data exploration and statistical analysis.                                | Python, Data Analysis, Visualization   |
 
 ### 🌐 Web & Full-Stack Development
 
@@ -85,8 +85,8 @@ _Computer Science student passionate about building real-world systems at the in
 | **[Java-Ticket-Booking-System](https://github.com/Mood07/Java-Ticket-Booking-System)**         | Console-based ticket booking system featuring seat visualization, real-time availability, and booking management. Demonstrates OOP principles.        | Java, OOP, File I/O                  |
 | **[Java-Weather-API-App](https://github.com/Mood07/Java-Weather-API-App)**                     | Real-time weather application fetching live data from OpenWeather API. Features detailed weather forecasts and data parsing.                          | Java, REST API, JSON, External APIs  |
 | **[Java-Library-Management-System](https://github.com/Mood07/Java-Library-Management-System)** | Comprehensive library system with book management, member tracking, and JSON-based persistence. Showcases solid OOP architecture.                     | Java, Gson, OOP, File Storage        |
-| **[Banking Application](https://github.com/Mood07/Java-Simple-Banking-App)**                               | Banking system with multiple account types, inheritance-based architecture, interest calculation, and fund transfers.                                 | Java, OOP, Inheritance, Polymorphism |
-| **[Expense Tracker](https://github.com/Mood07/Java-Expense-Tracker)**                               | Personal finance tracking application with expense categorization and statistical summaries. Clean code with proper encapsulation.                    | Java, OOP, Data Structures           |
+| **[Banking Application](https://github.com/Mood07/Java-Simple-Banking-App)**                   | Banking system with multiple account types, inheritance-based architecture, interest calculation, and fund transfers.                                 | Java, OOP, Inheritance, Polymorphism |
+| **[Expense Tracker](https://github.com/Mood07/Java-Expense-Tracker)**                          | Personal finance tracking application with expense categorization and statistical summaries. Clean code with proper encapsulation.                    | Java, OOP, Data Structures           |
 
 ### 📊 Data Analysis & Visualization
 
@@ -111,11 +111,8 @@ _Computer Science student passionate about building real-world systems at the in
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mood07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mood07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mood07&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mood07&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
