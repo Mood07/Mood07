@@ -28,15 +28,15 @@ class BerkeArdaTurk:
         self.focus      = ["Machine Learning", "NLP", "Full-Stack Development"]
         self.languages  = ["Python", "TypeScript", "Java", "C#", "JavaScript"]
         self.ml_stack   = ["PyTorch", "HuggingFace", "Scikit-learn", "Pandas", "NumPy"]
-        self.web_stack  = ["React", "Tailwind CSS", "MySQL", "MongoDB", "REST APIs"]
-        self.tools      = ["Git", "Docker", "Jupyter", "VS Code"]
+        self.web_stack  = ["React", "ASP.NET Core", "Spring Boot", "Node.js", "MongoDB", "MySQL"]
+        self.tools      = ["Git", "Docker", "Kafka", "Jupyter", "VS Code"]
         self.location   = "Warsaw 🇵🇱 / Istanbul 🇹🇷"
         self.goal       = "Build intelligent, impactful AI-powered products 🚀"
 
     def currently(self):
         return [
             "📚 Deepening ML & deep learning fundamentals",
-            "🔨 Shipping real-world AI projects",
+            "🔨 Shipping real-world AI & full-stack projects",
             "🤝 Open to internships & research collaborations",
         ]
 ```
@@ -64,23 +64,65 @@ class BerkeArdaTurk:
 
 ### 🌐 Web & Frameworks
 
-![Web](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark&perline=10)
+![Web](https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,spring,dotnet&theme=dark&perline=10)
 
 ### 🧰 Tools & Environment
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark&perline=10)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,kafka&theme=dark&perline=10)
 ![Tools2](https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                                                                             | Description                                                                                                                    | Tech                           |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
-| 🚗 [CarWorth](https://github.com/Mood07/CarWorth)                                   | ML regression pipeline that predicts second-hand car prices. Includes feature engineering & model comparison (Ridge, XGBoost). | Python · Scikit-learn · Pandas |
-| 📄 [AI Resume Matcher](https://github.com/Mood07/AI-Resume-Matcher)                 | NLP system that semantically matches resumes to job descriptions using transformer embeddings and ranked compatibility scores. | Python · HuggingFace · NLP     |
-| 🎬 [Movie Revenue Predictor](https://github.com/Mood07/Movie-Revenue-Predictor)     | Deep learning model estimating box office revenue from movie metadata (genre, cast, budget, release timing).                   | Python · PyTorch · Pandas      |
-| 📈 [Stock Sentiment Predictor](https://github.com/Mood07/Stock-Sentiment-Predictor) | Sentiment analysis on financial news headlines using transformers, mapping public mood to stock movement signals.              | Python · Transformers · NLP    |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚗 CarWorth</h3>
+      <p>XGBoost-powered used car price predictor trained on 426K Craigslist listings with SHAP explainability and a Streamlit interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SHAP-3b82f6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Mood07/CarWorth"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%">
+      <h3>📄 AI Resume Matcher</h3>
+      <p>NLP system that semantically matches resumes to job listings using Sentence-BERT embeddings, KMeans clustering and a Random Forest ranking model.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Mood07/AI-Resume-Matcher"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📈 Stock Sentiment Predictor</h3>
+      <p>NLP pipeline predicting stock market sentiment from financial news headlines using TF-IDF and Linear SVM with 74% accuracy.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLTK-3b82f6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Mood07/Stock-Sentiment-Predictor"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%">
+      <h3>💬 Dockerized Chat App</h3>
+      <p>Real-time chat application built with React, Node.js, Kafka and MongoDB — fully containerized with Docker Compose and WebSockets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Mood07/Dockerized-Chat-App"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
