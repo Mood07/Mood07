@@ -145,7 +145,7 @@ class BerkeArdaTurk:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mood07&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mood07&theme=tokyonight&no-frame=true&row=1&column=5&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
