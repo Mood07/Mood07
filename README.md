@@ -49,21 +49,26 @@ class BerkeArdaTurk:
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages
+### 💡 Languages & Core
 
 ![Languages](https://skillicons.dev/icons?i=python,java,cs,ts,js&theme=dark&perline=10)
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / Data Science
 
-![AI Stack](https://go-skill-icons.vercel.app/api/icons?i=pytorch,scikitlearn,pandas,numpy,huggingface&theme=dark)
+![AI Stack](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,huggingface&theme=dark)
+![AI Stack 2](https://skillicons.dev/icons?i=pytorch&theme=dark&perline=10)
 
-### 🌐 Web & Databases
+### 🗄️ Databases
 
-![Web Stack](https://skillicons.dev/icons?i=react,html,css,tailwind,mysql,mongodb,sqlite&theme=dark&perline=10)
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark&perline=10)
 
-### 🧰 Dev Tools
+### 🌐 Web & Frameworks
 
-![Tools](https://skillicons.dev/icons?i=git,docker,vscode,jupyter&theme=dark&perline=10)
+![Web](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark&perline=10)
+
+### 🧰 Tools & Environment
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark&perline=10)
 
 ---
 
