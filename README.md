@@ -1,12 +1,17 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:3b82f6,100:1d4ed8&height=160&section=header&text=Berke%20Arda%20Turk&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e3a8a,70:2563eb,100:3b82f6&height=200&section=header&text=Berke%20Arda%20Türk&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Warsaw%20%F0%9F%87%B5%F0%9F%87%B1%20%2F%20Istanbul%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=62&descSize=15)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Machine+Learning+%26+Data+Analysis;NLP+%26+HuggingFace+Transformers;PyTorch+%26+Scikit-learn;Building+data-driven+solutions+%F0%9F%9A%80;Always+learning%2C+always+building)](https://git.io/typing-svg)
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=3B82F6)](https://berkeardaturk.com/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=680&lines=Building+AI-powered+products+%F0%9F%9A%80;Machine+Learning+%26+Deep+Learning;NLP+%26+HuggingFace+Transformers;PyTorch+%7C+Scikit-learn+%7C+Pandas;Full-Stack%3A+React+%2B+Python+%2B+APIs;Turning+raw+data+into+real+impact+%F0%9F%93%8A)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f172a?style=for-the-badge&logoColor=3B82F6)](https://berkeardaturk.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-arda-turk/)
-[![GitHub followers](https://img.shields.io/github/followers/Mood07?style=for-the-badge&color=3b82f6&labelColor=111111)](https://github.com/Mood07)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mood07)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berke@berkeardaturk.com)
 
 </div>
 
@@ -15,22 +20,30 @@
 ## 🧠 About Me
 
 ```python
-berke = {
-    "role":        "Computer Science Student | AI & Data Science Track",
-    "university":  "Vizja University — Warsaw, Poland 🇵🇱",
-    "year":        "3rd Year — Major: AI & Data Science",
-    "focus":       ["Machine Learning", "NLP", "Data Analysis"],
-    "stack":       ["Python", "TypeScript", "React", "MySQL", "MongoDB"],
-    "ml_libs":     ["PyTorch", "HuggingFace", "Scikit-learn", "Pandas", "NumPy"],
-    "location":    "Warsaw 🇵🇱 / Istanbul 🇹🇷",
-    "goal":        "Build intelligent, impactful AI-powered products 🚀",
-    "currently":   "Deepening ML skills & shipping real projects",
-    "fun_fact":    "I debug in two languages 🐛"
-}
+class BerkeArdaTurk:
+    def __init__(self):
+        self.role       = "CS Student — AI & Data Science Track"
+        self.university = "Vizja University, Warsaw 🇵🇱"
+        self.year       = "3rd Year"
+        self.focus      = ["Machine Learning", "NLP", "Full-Stack Development"]
+        self.languages  = ["Python", "TypeScript", "Java", "C#", "JavaScript"]
+        self.ml_stack   = ["PyTorch", "HuggingFace", "Scikit-learn", "Pandas", "NumPy"]
+        self.web_stack  = ["React", "Tailwind CSS", "MySQL", "MongoDB", "REST APIs"]
+        self.tools      = ["Git", "Docker", "Jupyter", "VS Code"]
+        self.location   = "Warsaw 🇵🇱 / Istanbul 🇹🇷"
+        self.goal       = "Build intelligent, impactful AI-powered products 🚀"
+
+    def currently(self):
+        return [
+            "📚 Deepening ML & deep learning fundamentals",
+            "🔨 Shipping real-world AI projects",
+            "🤝 Open to internships & research collaborations",
+        ]
 ```
 
-> 3rd-year CS student at Vizja University, specializing in AI & Data Science.
-> I bridge the gap between data science and software engineering — from training PyTorch models to shipping full-stack React applications.
+> 3rd-year Computer Science student specialising in **AI & Data Science**.
+> I bridge the gap between **data science and software engineering** — from training PyTorch models to shipping full-stack React applications.
+> Passionate about building tools that are not just technically solid, but genuinely useful.
 
 ---
 
@@ -38,30 +51,93 @@ berke = {
 
 ### 💡 Languages
 
-![Skills](https://skillicons.dev/icons?i=python,java,cs,ts,js&theme=dark&perline=10)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🤖 AI / Data Science
+### 🤖 AI / Machine Learning
 
-![AI Stack](https://go-skill-icons.vercel.app/api/icons?i=pytorch,scikitlearn,pandas,numpy,huggingface&theme=dark)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🌐 Web & Databases
 
-![Web Stack](https://skillicons.dev/icons?i=react,html,css,tailwind,mysql,mongodb,sqlite&theme=dark&perline=10)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧰 Tools
+### 🧰 Dev Tools
 
-![Tools](https://skillicons.dev/icons?i=git,docker,vscode,jupyter&theme=dark&perline=10)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                                                                             | Description                                           | Tech                         |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------- |
-| 🚗 [CarWorth](https://github.com/Mood07/CarWorth)                                   | Car price prediction using ML regression models       | Python, Scikit-learn, Pandas |
-| 📄 [AI Resume Matcher](https://github.com/Mood07/AI-Resume-Matcher)                 | NLP-powered resume-to-job matching system             | Python, HuggingFace, NLP     |
-| 🎬 [Movie Revenue Predictor](https://github.com/Mood07/Movie-Revenue-Predictor)     | Predicts box office revenue from movie metadata       | Python, PyTorch, Pandas      |
-| 📈 [Stock Sentiment Predictor](https://github.com/Mood07/Stock-Sentiment-Predictor) | Sentiment analysis on financial news for stock trends | Python, NLP, Transformers    |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚗 CarWorth</h3>
+      <p>ML regression pipeline that predicts second-hand car prices with high accuracy. Includes feature engineering, model comparison (Ridge, XGBoost), and a clean data preprocessing workflow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Mood07/CarWorth">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📄 AI Resume Matcher</h3>
+      <p>NLP system that semantically matches resumes to job descriptions using transformer embeddings. Outputs a ranked compatibility score to streamline the hiring process.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-3b82f6?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Mood07/AI-Resume-Matcher">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎬 Movie Revenue Predictor</h3>
+      <p>Deep learning model that estimates box office revenue from movie metadata (genre, cast, budget, release timing). Built with PyTorch and trained on a curated film dataset.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Mood07/Movie-Revenue-Predictor">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📈 Stock Sentiment Predictor</h3>
+      <p>Sentiment analysis pipeline on financial news headlines using transformer models. Maps public sentiment to stock movement signals for informed trading decisions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/NLP-3b82f6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Mood07/Stock-Sentiment-Predictor">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -69,35 +145,45 @@ berke = {
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Public%20Repos-8-3b82f6?style=for-the-badge&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/Mood07?style=for-the-badge&color=3b82f6&labelColor=0d1117&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Mood07?style=for-the-badge&color=60a5fa&labelColor=0d1117&logo=github&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mood07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=94a3b8&ring_color=2563eb" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mood07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&langs_count=6" />
 
-<br/>
+<br/><br/>
 
-> 💡 **Currently:** Building ML projects & learning something new every day
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mood07&theme=tokyonight&no-frame=true&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mood07&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mood07&theme=tokyo-night&hide_border=true&color=3B82F6&line=3B82F6&point=60A5FA)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mood07&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mood07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3B82F6&line=2563eb&point=60A5FA&area=true&area_color=1d4ed8)
+
+</div>
+
+---
+
+## 🌱 What I'm Working On
+
+```
+📌 Improving model performance in NLP classification tasks
+📌 Exploring LLM fine-tuning & RAG architectures
+📌 Building end-to-end ML pipelines with clean APIs
+📌 Contributing to open source AI tooling
+```
 
 ---
 
@@ -107,9 +193,14 @@ berke = {
 
 _Open to collaborations, research discussions, internship opportunities, or just a good conversation about AI._
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-arda-turk/)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=3B82F6)](https://berkeardaturk.com/)
+<br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:3b82f6,100:93c5fd&height=130&section=footer&text=)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-arda-turk/)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=3B82F6)](https://berkeardaturk.com/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berke@berkeardaturk.com)
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:2563eb,100:0f172a&height=140&section=footer)
 
 </div>
