@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:3b82f6,100:1d4ed8&height=180&section=header&text=Berke%20Arda%20Turk&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Warsaw%20%2F%20Istanbul&descAlignY=58&descSize=15)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:3b82f6,100:1d4ed8&height=160&section=header&text=Berke%20Arda%20Turk&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16)
 
 <br/>
 
@@ -32,7 +32,6 @@ class BerkeArdaTurk:
         self.tools      = ["Git", "Docker", "Jupyter", "VS Code"]
         self.location   = "Warsaw 🇵🇱 / Istanbul 🇹🇷"
         self.goal       = "Build intelligent, impactful AI-powered products 🚀"
-        self.fun_fact   = "I debug in two languages — and two timezones 🐛"
 
     def currently(self):
         return [
