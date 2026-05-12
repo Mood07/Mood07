@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e3a8a,70:2563eb,100:3b82f6&height=200&section=header&text=Berke%20Arda%20Türk&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Warsaw%20%F0%9F%87%B5%F0%9F%87%B1%20%2F%20Istanbul%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=62&descSize=15)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:3b82f6,100:1d4ed8&height=180&section=header&text=Berke%20Arda%20Turk&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Warsaw%20%2F%20Istanbul&descAlignY=58&descSize=15)
 
 <br/>
 
@@ -10,8 +10,8 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f172a?style=for-the-badge&logoColor=3B82F6)](https://berkeardaturk.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-arda-turk/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@berkeardaturk)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mood07)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berke@berkeardaturk.com)
 
 </div>
 
@@ -32,6 +32,7 @@ class BerkeArdaTurk:
         self.tools      = ["Git", "Docker", "Jupyter", "VS Code"]
         self.location   = "Warsaw 🇵🇱 / Istanbul 🇹🇷"
         self.goal       = "Build intelligent, impactful AI-powered products 🚀"
+        self.fun_fact   = "I debug in two languages — and two timezones 🐛"
 
     def currently(self):
         return [
@@ -51,93 +52,30 @@ class BerkeArdaTurk:
 
 ### 💡 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Languages](https://skillicons.dev/icons?i=python,java,cs,ts,js&theme=dark&perline=10)
 
 ### 🤖 AI / Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![AI Stack](https://go-skill-icons.vercel.app/api/icons?i=pytorch,scikitlearn,pandas,numpy,huggingface&theme=dark)
 
 ### 🌐 Web & Databases
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Web Stack](https://skillicons.dev/icons?i=react,html,css,tailwind,mysql,mongodb,sqlite&theme=dark&perline=10)
 
 ### 🧰 Dev Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tools](https://skillicons.dev/icons?i=git,docker,vscode,jupyter&theme=dark&perline=10)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🚗 CarWorth</h3>
-      <p>ML regression pipeline that predicts second-hand car prices with high accuracy. Includes feature engineering, model comparison (Ridge, XGBoost), and a clean data preprocessing workflow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Mood07/CarWorth">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>📄 AI Resume Matcher</h3>
-      <p>NLP system that semantically matches resumes to job descriptions using transformer embeddings. Outputs a ranked compatibility score to streamline the hiring process.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP-3b82f6?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Mood07/AI-Resume-Matcher">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎬 Movie Revenue Predictor</h3>
-      <p>Deep learning model that estimates box office revenue from movie metadata (genre, cast, budget, release timing). Built with PyTorch and trained on a curated film dataset.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Mood07/Movie-Revenue-Predictor">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>📈 Stock Sentiment Predictor</h3>
-      <p>Sentiment analysis pipeline on financial news headlines using transformer models. Maps public sentiment to stock movement signals for informed trading decisions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-        <img src="https://img.shields.io/badge/NLP-3b82f6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Mood07/Stock-Sentiment-Predictor">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+| Project                                                                             | Description                                                                                                                    | Tech                           |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
+| 🚗 [CarWorth](https://github.com/Mood07/CarWorth)                                   | ML regression pipeline that predicts second-hand car prices. Includes feature engineering & model comparison (Ridge, XGBoost). | Python · Scikit-learn · Pandas |
+| 📄 [AI Resume Matcher](https://github.com/Mood07/AI-Resume-Matcher)                 | NLP system that semantically matches resumes to job descriptions using transformer embeddings and ranked compatibility scores. | Python · HuggingFace · NLP     |
+| 🎬 [Movie Revenue Predictor](https://github.com/Mood07/Movie-Revenue-Predictor)     | Deep learning model estimating box office revenue from movie metadata (genre, cast, budget, release timing).                   | Python · PyTorch · Pandas      |
+| 📈 [Stock Sentiment Predictor](https://github.com/Mood07/Stock-Sentiment-Predictor) | Sentiment analysis on financial news headlines using transformers, mapping public mood to stock movement signals.              | Python · Transformers · NLP    |
 
 ---
 
@@ -196,11 +134,11 @@ _Open to collaborations, research discussions, internship opportunities, or just
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-arda-turk/)
+[![Medium](https://img.shields.io/badge/Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@berkeardaturk)
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=3B82F6)](https://berkeardaturk.com/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berke@berkeardaturk.com)
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:2563eb,100:0f172a&height=140&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:3b82f6,100:93c5fd&height=130&section=footer)
 
 </div>
