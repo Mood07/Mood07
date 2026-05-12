@@ -68,7 +68,8 @@ class BerkeArdaTurk:
 
 ### 🧰 Tools & Environment
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark&perline=10)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark&perline=10)
+![Tools2](https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark)
 
 ---
 
