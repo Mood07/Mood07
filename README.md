@@ -88,8 +88,8 @@ class BerkeArdaTurk:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mood07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=94a3b8&ring_color=2563eb" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mood07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&langs_count=6" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mood07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=94a3b8&ring_color=2563eb" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mood07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&langs_count=6" />
 
 <br/><br/>
 
